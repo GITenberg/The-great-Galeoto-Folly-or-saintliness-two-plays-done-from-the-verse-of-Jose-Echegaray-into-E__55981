@@ -1,5 +1,5 @@
 _repo: The-great-Galeoto-Folly-or-saintliness-two-plays-done-from-the-verse-of-Jose-Echegaray-into-E__55981
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Lynch, Hannah
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1904
     gutenberg_agent_id: '43709'
     url: http://www.gutenberg.org/2009/agents/43709
+covers:
+- cover_type: archival
+  image_path: 55981-h/images/cover.jpg
 creator:
   author:
     agent_name: Echegaray, José
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '40983'
     url: http://www.gutenberg.org/2009/agents/40983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55981#The-great-Galeoto-Folly-or-saintliness-two-plays-done-from-the-verse-of-Jose-Echegaray-into-E_
 gutenberg_issued: '2017-11-17'
 gutenberg_type: Text
 identifiers:
